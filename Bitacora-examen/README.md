@@ -46,13 +46,16 @@ En la plataforma Pinterest encontré varias referencias de lo visual para mi pro
 ## Avance 2 (16 noviembre)
 
 ### Wireframe baja
-- Primero tenía pendiente el ```wireframe baja mobile```, lo quise ir realizando para visualizar qué elementos tenía que cambiar del desktop para que este fuera responsivo.
+
+Primero tenía pendiente el ```wireframe baja mobile```, lo quise ir realizando para visualizar qué elementos tenía que cambiar del desktop para que este fuera responsivo.
 
 ### Wireframe alta desktop + UIKIT
-- Luego de realizar este, me fui de lleno a realizar el ```wireframe alta desktop``` solo el inicio si, en donde fui modificando el ```UI kit```, ya que aún no tenía definido del todo, además mientras realizaba ciertos botones en figma, fui definiendo colores, jerarquías, lo cual me llevó a cambiar un poco mi figma de baja y modificarlo también en el de alta. Para que al momento de tener botones con hover, estos fueran más interactivos.
+
+Luego de realizar este, me fui de lleno a realizar el ```wireframe alta desktop``` solo el inicio si, en donde fui modificando el ```UI kit```, ya que aún no tenía definido del todo, además mientras realizaba ciertos botones en figma, fui definiendo colores, jerarquías, lo cual me llevó a cambiar un poco mi figma de baja y modificarlo también en el de alta. Para que al momento de tener botones con hover, estos fueran más interactivos.
 
 ### Botones, componentes, auto layout
-- Actualmente no recordaba mucho el uso de estos términos y cómo aplicarlo, lo cual recurrí a la IA, la cual me explicó la importancia de estos y como realizar los botones, cambios en sus estados/instancias, importancia auto layout, cómo crear componentes y variantes.
+
+Actualmente no recordaba mucho el uso de estos términos y cómo aplicarlo, lo cual recurrí a la IA, la cual me explicó la importancia de estos y como realizar los botones, cambios en sus estados/instancias, importancia auto layout, cómo crear componentes y variantes.
 
 ![Consulta IA](imagenes/ia-1.png)
 
@@ -67,10 +70,12 @@ Desde acá en adelante me dió una guía paso a paso sobre cómo realizar el aut
 ![Consulta IA](imagenes/ia-5.png)
 
 ### Wireframe alta mobile
-- Acá ya fui realizando el ```wireframe alta mobile```, lo cual se me hizo mucho más fácil porque fui refrescando la memoria de lo que ya había realizado antes con el de desktop.
+
+Acá ya fui realizando el ```wireframe alta mobile```, lo cual se me hizo mucho más fácil porque fui refrescando la memoria de lo que ya había realizado antes con el de desktop.
 
 ### Interacción
-- En ambos ```wireframes alta``` quería realizar una interacción, la cual más que nada fuese solo interactiva, sin ningún fin de llevar a alguna página, lo cual le fui pidiendo a la IA que me fuera realizando esta, para por mientras introducirla al Figma, la cual a su vez me daba los códigos y la vista previa de cómo se iba a visualizar en la página web. Luego de que me diera la imagen para introducirla a Figma, la inserté y de igual forma podía modificar colores de esta, aunque la mantuve así por el momento, ya que me gustaba la visualidad que le daba al home.
+
+En ambos ```wireframes alta``` quería realizar una interacción, la cual más que nada fuese solo interactiva, sin ningún fin de llevar a alguna página, lo cual le fui pidiendo a la IA que me fuera realizando esta, para por mientras introducirla al Figma, la cual a su vez me daba los códigos y la vista previa de cómo se iba a visualizar en la página web. Luego de que me diera la imagen para introducirla a Figma, la inserté y de igual forma podía modificar colores de esta, aunque la mantuve así por el momento, ya que me gustaba la visualidad que le daba al home.
 
 ![Consulta IA](imagenes/ia-6.png)
 
@@ -85,6 +90,16 @@ Finalmente llegamos a esta interacción, la cual visualmente era lo que quería,
 ![Consulta IA](imagenes/ia-9.png)
 
 ### Códigos
+
+Al principio comencé con el HTML base del home, donde luego de eso, para poder hacer el código en CSS le solicité ayuda a la IA, debido a que este me cuesta más, de igual forma fui complementando con cosas que ya tenía, además de incluirle la interacción del JS. Además le comenté a la IA que tenía todo visualizado en Figma, lo cual se hizo muchos más fácil.
+
+![Consulta IA](imagenes/ia-10.png)
+
+![Consulta IA](imagenes/ia-11.png)
+
+Acá le pedí que me implementara la animación/interacción que ya había realizado antes, la cual le había mandado una antes por error y luego le mandé la original para que me la incluyera y así hacer el JS.
+
+![Consulta IA](imagenes/ia-12.png) 
 
 ---
 # Examen
