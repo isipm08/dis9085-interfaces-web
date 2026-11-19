@@ -109,6 +109,8 @@ De igual forma me sugirieron solo dejar 3 botones en home, debido a que el botó
 
 Uno de mis primeros problemas durante el proceso fue el tamaño de los botones, ya que visualmente eran muy grandes. Luego de las correcciones, decidí ir modificando su tamaño, de igual forma se me hizo fácil, ya que como eran solo los botones, estos se modificarían de forma automática en el figma.
 
+Mi segundo problema durante este proceso fue la realización de un carrusel de imágenes de forma interactiva en el figma. Más que nada lo quería realizar para complementar el figma, así que consulté a la IA **[prompts en documento]** sobre cómo realizarlo. Tuve varios altercados durante el proceso por errores míos. Uno de mis primeros errores fue que el componente y botón principal no tenían conectada la interacción que quería que realizara, ya que además de que este botón cambiara la imagen, yo quería que este al pasar el cursor por encima cambiara de color, entonces cambié eso ya que no lo tenía conectado de buena forma. Luego de eso era copiar el componente principal de predeterminado e integrarlo a el componente de las cajas e imágenes del carrusel, de esta forma lo que me sugirió la IA fue buscarlo desde la sección de ```acciones > recursos > nombre componente > seleccionarlo > arrastrarlo```, así se crea una instancia y no un componente, ya que no se podían adjuntar componentes sobre componentes. Finalmente este botón ya mantenía su estado de pasar el cursor y cambiar color, solo faltaba conectarlo a la variable dos de las imágenes e ir encajándolos según correspondiera el movimiento del carrusel. 
+
 ### Aprendizajes
 
 ---
